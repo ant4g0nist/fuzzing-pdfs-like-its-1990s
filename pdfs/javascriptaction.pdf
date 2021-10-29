@@ -1,0 +1,223 @@
+%PDF-1.4
+%〕抛
+1 0 obj
+<</Type/Catalog/Pages 2 0 R /AcroForm 8 0 R /Metadata 14 0 R >>
+endobj
+2 0 obj
+<</Type/Pages/Kids[ 3 0 R ]/Count 1>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 500 600]
+/Parent 2 0 R
+/Contents 4 0 R
+/Resources <</Font <</Song 5 0 R>> >>
+/Annots [9 0 R 12 0 R]
+>>
+endobj
+
+4 0 obj
+<<
+/Length 0 
+>>
+stream
+
+q
+1 0 0 RG
+2 w
+50 100 400 350 re S 
+50 390 m 450 390 l S
+50 150 m 450 150 l S
+
+1 w
+
+%row
+50 270 m 450 270 l S
+
+100 190 m 450 190 l S
+100 230 m 450 230 l S
+
+100 310 m 450 310 l S
+100 350 m 450 350 l S
+
+%col
+100 150 m 100 450 l S
+170 150 m 170 450 l S
+240 150 m 240 450 l S
+310 150 m 310 450 l S
+380 150 m 380 450 l S
+
+%tilted
+50 450 m 100 390 l S
+Q
+
+q
+0 1 0 rg
+
+BT
+/Song 36 Tf
+200 500 Td
+(课程表)Tj
+ET
+
+0 0 0 rg
+
+BT
+/Song 18 Tf
+65 350 Td
+(上)Tj
+0 -55 Td
+(午)Tj
+ET
+
+BT
+/Song 18 Tf
+65 230 Td
+(下)Tj
+0 -55 Td
+(午)Tj
+ET
+
+BT
+/Song 18 Tf
+
+110 415 Td
+(星期一)Tj
+
+70 0 Td
+(星期二)Tj
+
+70 0 Td
+(星期三)Tj
+
+70 0 Td
+(星期四)Tj
+
+70 0 Td
+(星期五)Tj
+
+ET
+Q
+
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type0
+/BaseFont /#CB#CE#CC#E5 
+/Encoding /GBK-EUC-H
+%/Encoding /UniGB-UCS2-H 
+/DescendantFonts [6 0 R]
+>>
+endobj
+
+6 0 obj
+<<
+/Subtype /CIDFontType2
+/FontDescriptor 7 0 R
+/BaseFont /#CB#CE#CC#E5 
+/CIDSystemInfo <</Registry (Adobe) /Ordering (GB1) /Supplement 4>> 
+/Type/Font
+>>
+endobj
+
+7 0 obj
+<<
+/Ascent 859 
+/CapHeight 500 
+/Descent -140 
+/Flags 32 
+/FontBBox [0 -140 996 855] 
+/FontName /#CB#CE#CC#E5 
+/ItalicAngle 0 
+/StemV 100 
+/Type /FontDescriptor 
+>>
+endobj
+
+8 0 obj
+<</Fields[ 9 0 R  12 0 R ]/DR<</Font<</Song 5 0 R >>>>/DA(/Song 18 Tf 0 0 0 rg)>>
+endobj
+9 0 obj
+<</Type/Annot/Subtype/Widget/Rect[ 50 100 450 150]/FT/Tx/T(Remark)/A<</Type/Action/S/JavaScript/JS(app.alert\("Test java script action ... !"\);)>>>>
+endobj
+10 0 obj
+<<
+/Length 0
+/BBox [0 0 70 40]
+/Resources <</Font <</Song 5 0 R>> >>
+>>
+stream
+BT
+/Song 18 Tf
+4 14 Td
+(语文)Tj
+ET
+endstream
+endobj
+
+11 0 obj
+[<FEFF8BED6587><FEFF65705B66><FEFF82F18BED>]
+endobj
+
+12 0 obj
+<</Type/Annot/Subtype/Widget/Rect[ 100 150 170 190]/FT/Ch/Ff 131072/T(Label_1)/V<FEFF8BED6587>/Opt 11 0 R /AP<</N 10 0 R >>>>
+endobj
+13 0 obj
+<</Title()/Author()/Subject()/Keywords()/Creator()/Producer()/CreationDate(D:00000000000000+00'00')/ModDate(D:00000000000000+00'00')>>
+endobj
+14 0 obj
+<</Type/Metadata/Subtype/XML/Length 1063>>stream
+<?xpacket begin="锘? id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.2-c001 63.139439, 2010/09/27-13:37:26        "><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"><xmp:CreateDate>00000000T00:00:00+00:00</xmp:CreateDate>
+<xmp:ModifyDate>00000000T00:00:00+00:00</xmp:ModifyDate>
+<xmp:MetadataDate>00000000T00:00:00+00:00</xmp:MetadataDate>
+<xmp:CreatorTool/>
+</rdf:Description>
+<rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title><rdf:Alt><rdf:li xml:lang="x-default"/>
+</rdf:Alt>
+</dc:title>
+<dc:creator><rdf:Bag><rdf:li/>
+</rdf:Bag>
+</dc:creator>
+<dc:description><rdf:Alt><rdf:li xml:lang="x-default"/>
+</rdf:Alt>
+</dc:description>
+<dc:subject><rdf:Bag><rdf:li/>
+</rdf:Bag>
+</dc:subject>
+</rdf:Description>
+<rdf:Description rdf:about="" xmlns:pdf="http://ns.adobe.com/pdf/1.3/"><pdf:Keywords/>
+<pdf:Producer/>
+</rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+
+<?xpacket end="w"?>
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f
+0000000017 00000 n
+0000000099 00000 n
+0000000155 00000 n
+0000000315 00000 n
+0000001093 00000 n
+0000001251 00000 n
+0000001432 00000 n
+0000001627 00000 n
+0000001727 00000 n
+0000001895 00000 n
+0000002051 00000 n
+0000002117 00000 n
+0000002262 00000 n
+0000002416 00000 n
+trailer
+<</Root 1 0 R /Info 13 0 R /Size 15/ID[<85A793F2A5D2F91BD477F1F3AFEB5A57><85A793F2A5D2F91BD477F1F3AFEB5A57>]>>
+startxref
+3560
+%%EOF

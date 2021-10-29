@@ -1,0 +1,227 @@
+%PDF-1.7	
+
+1 0 obj		
+<<
+	/Type /Catalog
+	/Pages 2 0 R	
+>>
+endobj 
+
+2 0 obj		
+<<
+	/Type /Pages
+	/Kids [3 0 R]		
+	/Count 1
+>>
+endobj
+
+3 0 obj		
+<<
+	/Type /Page 
+	/Parent 2 0 R				
+	/MediaBox [0 0 720 720]		
+	/Contents [4 0 R]	
+	/Resources 5 0 R		
+	
+>>
+endobj
+
+
+4 0 obj
+<<
+   /Length 0
+>>
+stream
+   BT
+   /F1 25 Tf 180 630 TD (Lesson10-Graphic4.6 Pattern-homework)Tj
+   /F1 18 Tf -60 -100 TD (ColorPattern)Tj
+             280  0 TD (UnColorPattern)Tj
+   ET
+   q
+   1 0 0 1 100 300 cm
+   0.0 G
+   0.5 0.5 0.5 rg
+   25 175 175 -150 re f
+   /Pattern cs
+   /P1 scn
+   99.92 49.92 m 
+   99.92 77.52 77.52 99.92 49.92 99.92 c
+   22.32 99.92 -0.08 77.52 -0.08 49.92 c
+   -0.08 22.32 22.32 -0.08 49.92 -0.08 c
+   77.52 -0.08 99.92 22.32 99.92 49.92 c
+   B
+   224.96 49.92 m
+   224.96 77.52 202.56 99.92 174.96 99.92 c
+   147.36 99.92 124.96 77.52 124.96 49.92 c
+   124.96 22.32 147.36 -0.08 174.96 -0.08 c
+   202.56 -0.08 224.96 22.32 224.96 49.92 c
+   B
+   87.56 201.70 m
+   63.66 187.90 55.46 157.32 69.26 133.40 c 
+   83.06 109.50 113.66 101.30 137.56 115.10 c
+   161.46 128.90 169.66 159.50 155.86 183.40 c
+   142.06 207.30 111.46 215.50 87.56 201.70 c
+   B
+   50 50 m
+   175 50 l
+   112.5 158.253 l
+   b
+   Q
+   q
+   1 0 0 1 400 300 cm
+
+   0.0 G
+   1.0 1.0 0.0 rg
+   25 175 175 -150 re 
+   f
+   /Cs12 cs
+   0.7 0.10 0.30 /P2 scn
+   99.92 49.92 m
+   99.92 77.52 77.52 99.92 49.92 99.92 c
+   22.32 99.92 -0.08 77.52 -0.08 49.92 c
+   -0.08 22.32 22.32 -0.08 49.92 -0.08 c
+   77.52 -0.08 99.92 22.32 99.92 49.92 c
+   B
+   0.2 0.5 0.5 /P2 scn
+   
+   224.96 49.92 m
+   224.96 77.52 202.56 99.92 174.96 99.92 c
+   147.36 99.92 124.96 77.52 124.96 49.92 c
+   124.96 22.32 147.36 -0.08 174.96 -0.08 c
+   202.56 -0.08 224.96 22.32 224.96 49.92 c
+   B
+   0.3 0.7 0.0 /P2 scn
+   87.56 201.70 m
+   63.66 187.90 55.46 157.32 69.26 133.40 c 
+   83.06 109.50 113.66 101.30 137.56 115.10 c
+   161.46 128.90 169.66 159.50 155.86 183.40 c
+   142.06 207.30 111.46 215.50 87.56 201.70 c
+   B
+   0.8 0.0 1.0 /P2 scn
+   50 50 m
+   175 50 l
+   112.5 158.253 l
+   b
+   Q
+
+   
+endstream
+endobj
+
+5 0 obj
+<<  
+   /ColorSpace <</Cs12 10 0 R>>
+   /Pattern <</P1 6 0 R
+               
+               /P2 11 0 R>>
+>>
+endobj
+
+6 0 obj
+<<
+  /Type /Pattern                                       %Pattern definition
+  /PatternType  1                                      %Tiling pattern
+  /PaintType 1                                         %Color Tiling pattern
+  /TilingType 2                                        
+  /BBox [0 0 100 100]                                  %Pattern 的单元边界
+  /XStep 100                                           %Pattern 单元的水平间隔
+  /YStep 100                                           %pattern 单元的垂直间隔
+  /Resources 7 0 R                                     %pattern 内容流的资源字典         
+  /Matrix [0.3464 0.2 -0.2 0.3464 0.0 0.0]
+  /Length 0
+
+>>
+stream
+   BT
+      
+      /F1 1 Tf
+      64 0 0 64 7.1771 2.4414 Tm
+      0 Tc
+      0 Tw
+      1.0 0.0 0.0 rg
+      (\001) Tj
+      0.7478 -0.007 TD
+      0.0 1.0 0.0 rg 
+      (\002) Tj
+      -0.7323 0.7813 TD
+      0.0 0.0 1.0 rg
+      (\003) Tj
+      0.6913 0.007 TD
+      0.0 0.0 0.0 rg
+      (\004) Tj
+   ET
+endstream
+endobj
+
+7 0 obj
+<<
+   /Font <</F1 8 0 R>>
+>>
+endobj
+
+8 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /Encoding 9 0 R
+  /BaseFont /ZapfDingbats
+
+>>
+endobj
+
+9 0 obj
+<< 
+  /Type /Encoding
+  /Differences [1 /a109 /a110 /a111 /a112]
+>>
+endobj
+
+%........uncolor pattern..........
+10 0 obj
+   [/Pattern /DeviceRGB]
+endobj
+
+11 0 obj
+<<
+   /Type /Pattern
+   /PatternType 1
+   /PaintType 2
+   /TilingType 2
+   /BBox [0 0 100 100]
+   /XStep 100
+   /YStep 100  
+   /Resources 7 0 R                                     %pattern 内容流的资源字典         
+  /Matrix [0.4 0.0 0.0 0.4 0.0 0.0]
+  /Length 0
+
+>>
+stream
+   BT
+      
+      /F1 1 Tf
+      64 0 0 64 7.1771 2.4414 Tm
+      0 Tc
+      0 Tw
+      (\001) Tj
+      0.7478 -0.007 TD
+      (\002) Tj
+      -0.7323 0.7813 TD
+      (\003) Tj
+      0.6913 0.007 TD
+      (\004) Tj
+   ET
+endstream
+endobj
+
+  
+
+xref
+trailer
+<<
+   /Size 0
+   /Root 1 0 R
+>>
+startxref
+0
+
+%%EOF

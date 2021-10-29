@@ -1,0 +1,73 @@
+%PDF-1.4
+
+1 0 obj
+<<
+	/Type /Catalog
+	/Pages 2 0 R
+>>endobj
+
+2 0 obj
+<<
+	/Type /Pages
+	/Kids [3 0 R]
+	/Count 1
+>>endobj
+
+
+3 0 obj
+<<
+	/Parent 2 0 R 
+	/Contents 6 0 R 
+	/MediaBox [0 0 612 792 ]
+	/Resources << 
+		/Font <</F1 5 0 R>>
+		/ColorSpace<</CS1 7 0 R >>
+		>>
+	/Type /Page 
+>>endobj
+
+
+4 0 obj
+<<
+	/ColorSpace /DeviceCMYK
+	/Coords [0 0 290 0]
+	/ShadingType 2
+	/Function 5 0 R
+>>endobj
+
+5 0 obj
+<<
+	/Type /Font
+	/Subtype /Type1
+	/BaseFont /Helvetica
+>>
+endobj
+6 0 obj<<
+>>stream
+/CS1 cs
+0.8 0.5 0.3 sc
+BT /F1 25 Tf 100 680 TD
+(ColorSpace: CalRGB)Tj
+ET
+endstream
+endobj
+
+7 0 obj
+[/CalRGB <<
+/WhitePoint [0.905 1.0 1.0890 ]
+/Gamma [1.800000 1.800000 1.800000 ]
+/Matrix  [0.4497 0.2446 0.0252  0.3163 0.6720 0.1412 0.1845 0.0833 0.9227]
+>>
+]
+endobj
+xref
+
+trailer
+<<
+  /Size 0
+  /Root 1 0 R
+>>
+startxref
+0
+
+%%EOF

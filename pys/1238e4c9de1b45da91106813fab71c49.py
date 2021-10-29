@@ -1,0 +1,12 @@
+def func_1238e4c9de1b45da91106813fab71c49(cPDF):
+    oPDF = cPDF()
+    oPDF.header('1.7')
+    oPDF.indirectobject(1, 0, '% entry point\n<<\n  /Type /Catalog\n  /Pages 2 0 R\n>>')
+    oPDF.indirectobject(2, 0, '<<\n  /Type /Pages\n  /MediaBox [ 0 0 200 200 ]\n  /Count 1\n  /Kids [ 3 0 R ]\n>>')
+    oPDF.indirectobject(3, 0, '<<\n  /Type /Page\n  /Parent 2 0 R\n  /Resources <<\n    /Font <<\n      /F1 4 0 R \n    >>\n  >>\n  /Contents 5 0 R\n>>')
+    oPDF.stream(6, 0, "\x80\x0bÈd\x92!$Üi:\x08\x05å\x03\x91¼ÆS2ÂLÆ\x93q\x90äe9\x9bÎ§#\x19\x94@b2\x99â\x80¡\x88È@d4\x98á2\t\x11¸\x15,\x8a\x18Í¦\x13\x80*\x04M\x9a\x15\x0f'\x08ô\x98Èe3M\x88s\x83\x818Âm2\x8bÊC\x91Ì\x9e\x81$\x8fÈf&ùùÌàa\x8e\x9c\x8c&ã9\x94\x14<\x18\x0c\x07ÃÃ1\x98|\n2ÅLuHÅ^³[®Ô&\x06ã\x11\x9aµ\\¯\x0f\x06V+ÕòÃ{³ÚL\x97[½Ç\x052\x9a\x02¨sJ5 @c\x8dÅÍÇIDª\x15\x8b8S¢fã,^3\x1b\x8e\x88\x0e\x06ù®\x08A\x82\x05@@", '<<\n/Filter /LZWDecode\n/Length %d\n>>')
+    oPDF.indirectobject(7, 0, '<<\n/FontName /Arial-ItalicMT\n/StemV 93\n/Ascent 625\n/Flags 4\n    /Descent 0\n/ItalicAngle 0\n/MissingWidth 750\n/FontBBox [0 0 625 625]\n/Type /FontDescriptor\n/CapHeight 625\n>>')
+    oPDF.indirectobject(4, 0, '<<\n/BaseFont /Arial-ItalicMT\n/LastChar 32\n/Subtype /TrueType\n/ToUnicode 6 0 R\n/FontDescriptor 7 0 R\n/Widths [278]\n/Type /Font\n/FirstChar 32\n>>')
+    oPDF.stream(5, 0, 'BT\n70 50 TD\n/F1 12 Tf\n(Hello, 864847) Tj\nET', '% page content\n<<\n  /Length %d\n>>')
+    oPDF.xrefAndTrailer('1 0 R')
+    return oPDF.sample()

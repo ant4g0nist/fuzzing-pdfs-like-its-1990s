@@ -1,0 +1,102 @@
+%PDF-1.7
+
+1 0 obj
+<<
+	/Type /Catalog
+	/Pages 2 0 R
+	/OCProperties
+	<<
+		/OCGs [10 0 R 20 0 R 30 0 R]
+		/D
+		<<
+			/Order [10 0 R [20 0 R 30 0 R]]
+		>> 	
+	>>
+>>
+endobj
+
+2 0 obj
+<<
+	/Type /Pages
+	/Kids [3 0 R]
+	/Count 1
+>>
+endobj
+
+
+3 0 obj
+<<
+	/Type /Page
+	/Parent 2 0 R
+	/MediaBox [0 0 400 600]
+	/Contents 4 0 R
+	/Resources
+	<<
+		/Properties 
+		<<
+			/L1 10 0 R
+			/L1a 20 0 R
+			/L1b 30 0 R
+		>>
+	>>
+ 
+>>
+endobj
+
+4 0 obj
+<<
+	/Length 0
+>>
+stream
+	/OC/L1 BDC
+		/OC/L1a BDC
+		q
+			1 1 0 rg
+			100 450 100 100 re
+			f
+		Q
+		EMC
+
+		/OC/L1b BDC
+		q
+			0 1 1 rg
+			250 450 100 100 re
+			f
+		Q
+		EMC
+	EMC
+endstream
+endobj
+
+10 0 obj
+<<
+	/Type /OCG
+	/Name (Layer 1)
+>>
+endobj
+
+
+20 0 obj
+<<
+	/Type /OCG
+	/Name (Sublayer A)
+>>
+endobj
+
+
+30 0 obj
+<<
+	/Type /OCG
+	/Name (Sublayer B)
+>>
+endobj
+
+xref
+trailer
+<<
+	/Size 0
+	/Root 1 0 R
+>>
+startxref
+0
+%%EOF

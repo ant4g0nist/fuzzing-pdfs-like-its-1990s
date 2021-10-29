@@ -1,0 +1,84 @@
+%PDF-1.7
+
+1 0 obj
+<<
+	/Type /Catalog
+	/Pages 2 0 R
+	/OCProperties
+	<<
+		/OCGs [6 0 R]
+		/D
+		<<
+			/Order [6 0 R]
+		>> 	
+	>>
+>>
+endobj
+
+2 0 obj
+<<
+	/Type /Pages
+	/Kids [3 0 R]
+	/Count 1
+>>
+endobj
+
+
+3 0 obj
+<<
+	/Type /Page
+	/Parent 2 0 R
+	/MediaBox [0 0 400 600]
+	/Contents 4 0 R
+	/Resources
+	<<
+		/Font << /Font1 5 0 R>>
+		/Properties <</oc1 6 0 R>>
+	>>
+ 
+>>
+endobj
+
+4 0 obj
+<<
+	/Length 0
+>>
+stream
+q
+	/OC/oc1 BDC
+	BT
+	/Font1 1 Tf
+	12 0 0 12 100 500 Tm
+	(Hello) Tj
+	ET
+	EMC
+Q
+endstream
+endobj
+
+5 0 obj
+<<
+	/Type /Font
+	/Subtype /Type1
+	/BaseFont /Times-Roman
+>>
+endobj
+
+
+6 0 obj
+<<
+	/Type /OCG
+	/Name (Show Greeting)
+>>
+endobj
+
+
+xref
+trailer
+<<
+	/Size 0
+	/Root 1 0 R
+>>
+startxref
+0
+%%EOF

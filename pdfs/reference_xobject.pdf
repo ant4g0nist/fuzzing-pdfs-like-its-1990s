@@ -1,0 +1,90 @@
+%PDF-1.4
+
+1 0 obj
+<<
+	/Type /Catalog
+	/Pages 2 0 R
+>>
+endobj
+
+
+2 0 obj
+<<
+	/Type /Pages
+	/Count 1
+	/Kids [3 0 R]
+>>
+endobj
+
+
+3 0 obj
+<<
+	/Type /Page
+	/Parent 2 0 R
+	/MediaBox [0 0 450 600]
+	/Contents [4 0 R]
+	/Resources
+	<<
+		/XObject << /Form0 5 0 R >>
+	>>
+
+>>
+endobj
+
+4 0 obj
+<<
+	/Length 0
+>>
+stream
+q
+	%1 0 0 1 175 250 cm
+	/Form0 Do
+Q
+endstream
+endobj
+
+5 0 obj
+<<
+	/Type	/XObject
+	/Subtype/Form
+	/FormType 1
+	/BBox [0 0 450 600]
+	/Matrix [1 0 0 1 0 0]
+	/Ref
+	<<
+		/F  << 
+			/Type /Filespec
+			/FS /URL
+			/F (ftp://www.beatles.com/Movies/AbbeyRoad.mov)
+			%/FS  /URL 
+		       %/F  (RefImage.pdf) 
+		    >>
+		/Page 0
+	>>
+	/Resources
+	<<
+	>>
+	/Length 0
+>>
+stream
+1 g
+0 0 m
+450 600 l
+S
+endstream
+endobj
+
+xref
+
+trailer
+<<
+	/Size 0
+	/Root 1 0 R
+>>
+
+
+startxref
+
+0
+
+%%EOF

@@ -1,0 +1,13 @@
+def func_6da6b066f1e84acf9bf6e574f032c2da(cPDF):
+    oPDF = cPDF()
+    oPDF.header('1.4')
+    oPDF.indirectobject(1, 0, '<<\r\n\t/Type /Catalog\r\n\t/Pages 2 0 R\r\n>>')
+    oPDF.indirectobject(2, 0, '<<\r\n\t/Type /Pages\r\n\t/Kids [3 0 R]\r\n\t/Count 1\r\n>>')
+    oPDF.indirectobject(3, 0, '<<\r\n\t/Parent 2 0 R \r\n\t/Contents 6 0 R \r\n\t/MediaBox [0 0 612 792 ]\r\n\t/Resources << \r\n\t\t/Font <</F1 5 0 R>>\r\n\t\t/ColorSpace<</CS1 7 0 R >>\r\n\t\t>>\r\n\t/Type /Page \r\n>>')
+    oPDF.indirectobject(4, 0, '<<\r\n\t/ColorSpace /DeviceCMYK\r\n\t/Coords [0 0 290 0]\r\n\t/ShadingType 2\r\n\t/Function 5 0 R\r\n>>')
+    oPDF.indirectobject(5, 0, '<<\r\n\t/Type /Font\r\n\t/Subtype /Type1\r\n\t/BaseFont /Helvetica\r\n>>')
+    oPDF.stream(6, 0, '/CS1 cs\r\n4 scn\r\nBT /F1 25 Tf 100 680 TD\r\n(ColorSpace: Indexed)Tj\r\nET', '<<\r\n>>')
+    oPDF.indirectobject(7, 0, '[/Indexed 8 0 R 5 <05 A2 B5 C1 55 66>]')
+    oPDF.indirectobject(8, 0, '[/CalGray <<\r\n/WhitePoint [0.9505 1.0000 1.0890 ]\r\n/Gamma 2.222000 \r\n>>\r\n]')
+    oPDF.xrefAndTrailer('1 0 R')
+    return oPDF.sample()

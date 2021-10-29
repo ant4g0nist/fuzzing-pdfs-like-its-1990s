@@ -1,0 +1,13 @@
+def func_6cc373289d6f4591bb0f3bac3b3deed5(cPDF):
+    oPDF = cPDF()
+    oPDF.header('1.7')
+    oPDF.indirectobject(27, 0, '<<\n/Type /Catalog\n/Pages 28 0 R\n>>')
+    oPDF.indirectobject(28, 0, '<<\n/Type /Pages\n/MediaBox [ 0 0 200 50 ]\n/Count 1\n/Kids [ 29 0 R ]\n>>')
+    oPDF.indirectobject(29, 0, '<<\n/Type /Page\n/Parent 28 0 R\n/Resources <<\n/Font <<\n/F1 30 0 R\n>>\n\n>>\n\n/Contents 31 0 R\n>>')
+    oPDF.indirectobject(30, 0, '<<\n/Type /Font\n/BaseFont /TimesNewRoman,Bold\n/Subtype /Type0\n/Encoding /Identity-H\n/Name /F1\n/DescendantFonts [ 23 0 R ]\n/ToUnicode 24 0 R\n>>')
+    oPDF.stream(31, 0, 'BT\n10 20 TD\n/F1 20 Tf\n<010400E0010500E1010A012A011E00FC012801140109> Tj\nET', '<<\n/Length %d\n>>')
+    oPDF.indirectobject(23, 0, '<<\n/Type /Font\n/Subtype /CIDFontType2\n/BaseFont /TimesNewRoman,Bold\n/CIDSystemInfo <<\n/Ordering (Identity)\n/Registry (Adobe)\n/Supplement 0\n>>\n\n/DW 250\n/W [ 260 [ 722 ] 261 [ 500 ] 252 [ 443 ] 265 [ 666 ] 266 [ 443 ] 224 [ 666 ] 225 [ 277 ] 275 [ 722 ] 276 [ 556 ] 286 [ 389 ] 296 [ 443 ] 298 [ 443 ] ]\n/FontDescriptor 8 0 R\n>>')
+    oPDF.stream(24, 0, 'xÚ]ÑÍn\x830\x0c\x00à{\x9e"ÇN;@(\x88VBH\x8cµ\x12\x87ýh¬\x0f@\x13Ã\x90F\x88B8ðöKìª\x9bv\x80èÃ6N\x9c¨n\x9e\x1b=:\x1e½ÛY¶àx?jea\x99W+\x81_a\x185\x13\tW£t7á[N\x9da\x91/n·ÅÁÔè~fEÁ¢\x0f\x1f\\\x9cÝøî,\x1eã\x07\x16½Y\x05vÔ\x03ß]êÖ»]\x8dù\x86\t´ã1+K®\xa0÷ÿyéÌk7\x01\x8fBÕï·ÏÍ\x00OÐ\x82ºËYÁb:\t¶Ó\x03°"\x16qZr¿$UÉ@«\x7fq¿s,»öò«³\x7fÒý\x82ÊHYP|®I9Å\x8e(q U¤#f\x9ebT*H\x82\x94`¦Ø\x93ö$ê\x97R?qBeO¨ä\x80Ê+\x12uÈk<ÈmÇáHaÔ÷\tÉÕZ?<¼\x0f\x9cQ\x98Î¨á~ef6¡*<?;µ\x86h', '<<\n/Length %d\n/Filter [ /FlateDecode ]\n>>')
+    oPDF.indirectobject(8, 0, '<<\n/Type /FontDescriptor\n/FontName /TimesNewRoman,Bold\n/Ascent 677\n/CapHeight 666\n/Descent -216\n/ItalicAngle 0\n/StemV 87\n/Flags 32\n/FontBBox [ -558 -307 2000 1026 ]\n>>')
+    oPDF.xrefAndTrailer('27 0 R')
+    return oPDF.sample()

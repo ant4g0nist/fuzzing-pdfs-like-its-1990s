@@ -1,0 +1,171 @@
+%PDF-1.7
+
+1 0 obj
+<<
+	/Type /Catalog
+	/Pages 2 0 R
+	/OCProperties
+	<<
+		/OCGs [10 0 R 20 0 R 30 0 R 40 0 R]
+		/D
+		<<
+			/BaseState /OFF
+			/ON [10 0 R]
+			/AS[
+				<<
+					/Event /View
+					/Category [/Zoom]
+					/OCGs [10 0 R 20 0 R 30 0 R 40 0 R]
+				>>
+
+				<<
+					/Event /Print
+					/Category [/Print]
+					/OCGs [40 0 R]
+				>>
+
+				<<
+					/Event /Export 
+					/Category [/Export]
+					/OCGs [30 0 R 40 0 R]
+				>>
+			]
+		>> 	
+	>>
+>>
+endobj
+
+2 0 obj
+<<
+	/Type /Pages
+	/Kids [3 0 R]
+	/Count 1
+>>
+endobj
+
+
+3 0 obj
+<<
+	/Type /Page
+	/Parent 2 0 R
+	/MediaBox [0 0 400 600]
+	/Contents 4 0 R
+	/Resources
+	<<
+		/Font << /Font1 5 0 R>>
+		/Properties <</oc1 10 0 R /oc2 20 0 R /oc3 30 0 R /oc4 40 0 R>>
+	>>
+ 
+>>
+endobj
+
+4 0 obj
+<<
+	/Length 0
+>>
+stream
+	/OC/oc1 BDC
+	q
+		BT
+		0 1 0 rg
+		/Font1 1 Tf
+		12 0 0 12 100 500 Tm
+		(Spring) Tj
+		ET
+	Q
+	EMC
+
+	/OC/oc2 BDC
+	q
+		BT
+		1 0 0 rg
+		/Font1 1 Tf
+		12 0 0 12 100 500 Tm
+		(Summer) Tj
+		ET
+	Q
+	EMC
+
+	/OC/oc3 BDC
+	q
+		BT
+		1 1 0 rg
+		/Font1 1 Tf
+		12 0 0 12 100 500 Tm
+		(Autumn) Tj
+		ET
+	Q
+	EMC
+
+	/OC/oc4 BDC
+	q
+		BT
+		0 0 1 rg
+		/Font1 1 Tf
+		12 0 0 12 100 500 Tm
+		(Winter) Tj
+		ET
+	Q
+	EMC
+endstream
+endobj
+
+5 0 obj
+<<
+	/Type /Font
+	/Subtype /Type1
+	/BaseFont /Times-Roman
+>>
+endobj
+
+
+10 0 obj
+<<
+	/Type /OCG
+	/Name (20000 foot view)
+	/Usage <</Zoom <</max 1.0>>>>
+>>
+endobj
+
+
+20 0 obj
+<<
+	/Type /OCG
+	/Name (10000 foot view)
+	/Usage <</Zoom <</min 1.0 /max 2.0>>>>
+>>
+endobj
+
+30 0 obj
+<<
+	/Type /OCG
+	/Name (1000 foot view)
+	/Usage 
+	<<
+		/Zoom <</min 2.0 /max 20.0>>
+		/Export <</ExportState /OFF>>
+	>>
+>>
+endobj
+
+40 0 obj
+<<
+	/Type /OCG
+	/Name (Copyright notice)
+	/Usage 
+	<<
+		/Print <</PrintState /ON>>
+		/Export <</ExportState /ON>>
+	>>
+>>
+endobj
+
+xref
+trailer
+<<
+	/Size 0
+	/Root 1 0 R
+>>
+startxref
+0
+%%EOF

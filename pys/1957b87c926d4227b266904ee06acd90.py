@@ -1,0 +1,10 @@
+def func_1957b87c926d4227b266904ee06acd90(cPDF):
+    oPDF = cPDF()
+    oPDF.header('1.4')
+    oPDF.indirectobject(1, 0, '<</Pages 3 0 R\r\n/Type /Catalog >>')
+    oPDF.indirectobject(2, 0, '<<>>')
+    oPDF.indirectobject(3, 0, '<</Type /Pages /Kids [4 0 R\r\n]\r\n/Count 1 >>')
+    oPDF.indirectobject(4, 0, '<</MediaBox [0 0 600 700 ]\r\n/Resources <</Pattern <</FX1 14 0 R\r\n>>\r\n/ColorSpace <</CS1 5 0 R\r\n/CS2 6 0 R\r\n/CS3 7 0 R\r\n/CS4 9 0 R\r\n/CS5 11 0 R\r\n>>\r\n/Font <</FX1 19 0 R\r\n>>\r\n>>\r\n/Type /Page /Parent 3 0 R\r\n/Contents 12 0 R\r\n>>')
+    oPDF.indirectobject(5, 0, '[/CalGray <</WhitePoint [0.500000 1 0.500000 ]\r\n/Gamma 2.200000 >>\r\n]')
+    oPDF.indirectobject(6, 0, '[/CalRGB <</WhitePoint [0.500000 1 0.500000 ]\r\n/Gamma [2.200000 2.200000 2.200000 ]\r\n>>\r\n]')
+    oPDF.indirectobject(7, 0, '[/Lab <</WhitePoint [0.500000 1 0.500000 ]\r\n/Range [-100 100 -100 100 ]\r\n>>\r\n]')

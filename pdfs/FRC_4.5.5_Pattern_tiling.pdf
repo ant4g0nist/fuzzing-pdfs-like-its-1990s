@@ -1,0 +1,96 @@
+%PDF-1.7
+
+1 0 obj
+<<
+	/Type /Catalog
+	/Pages 2 0 R
+>>endobj
+
+2 0 obj
+<<
+	/Type /Pages
+	/Kids [3 0 R]
+	/Count 1
+>>endobj
+
+
+3 0 obj
+<<
+	/Parent 2 0 R 
+	/Contents 6 0 R 
+	/MediaBox [0 0 612 792 ]
+	/Resources << 
+		/Font <</F1 5 0 R>>
+		/Pattern <</PT1 7 0 R>>
+		>>
+	/Type /Page 
+>>endobj
+
+
+4 0 obj
+<<
+	/ColorSpace /DeviceCMYK
+	/Coords [0 0 290 0]
+	/ShadingType 2
+	/Function 5 0 R
+>>endobj
+
+5 0 obj
+<<
+	/Type /Font
+	/Subtype /Type1
+	/BaseFont /Helvetica
+>>
+endobj
+
+6 0 obj<<
+>>stream
+q
+/Pattern cs
+/PT1 scn
+20 680 200 50 re f
+Q
+BT /F1 25 Tf 0 620 TD
+(ColorSpace: Tiling Pattern)Tj
+ET
+endstream
+endobj
+
+8 0 obj
+<< >>
+endobj
+
+7 0 obj
+<< 
+	/BBox [0 0 10 10] 
+	/Length 0 
+	/Matrix [1 0 0 1 0 0] 
+	/PaintType 1 
+	/PatternType 1 
+	/Resources 8 0 R 
+	/TilingType 1 
+	/Type /Pattern 
+	/XStep 10 
+	/YStep 10 
+>>stream
+0 1 0 RG
+0 5 m
+5 10 l
+10 5 l
+5 0 l
+h
+S
+endstream
+endobj
+
+xref
+
+trailer
+<<
+  /Size 0
+  /Root 1 0 R
+>>
+startxref
+0
+
+%%EOF

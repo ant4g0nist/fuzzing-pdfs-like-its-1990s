@@ -1,0 +1,12 @@
+def func_b6fe733366c64f6ebd4e3dd9084f9e96(cPDF):
+    oPDF = cPDF()
+    oPDF.header('1.7')
+    oPDF.comment('¡³Å×')
+    oPDF.indirectobject(1, 0, '<</Type/Catalog/Pages 2 0 R /AA<</DP 8 0 R >>>>')
+    oPDF.indirectobject(4, 0, '<</Type/Page/Parent 2 0 R /MediaBox[ 0 0 612 792]/CropBox[ 0 0 612 792]/Resources<</Font<</FXF1 5 0 R >>>>/ParaXML 6 0 R /Contents 7 0 R >>')
+    oPDF.stream(6, 0, 'x\x9c³±¯ÈÍQ(K-*ÎÌÏ³U2Ô3PRHÍKÎOÉÌK·U\n\rqÓµPR°·³\tH,J\x8cðõ±³qÌÉ\tJM.ñÌKËW\x001\x80z,,õ,Ì-\r\x0c\x8duLMMõÌ\x8dÌ\rL\ruLL\x8dôÌ\x0cÌ,ÍLtL-\x8dõÌ\x8c\x0c\r\x8c\x8d\xad\x95ôíx¹lôa¦ñr\x01\x00d¿!ö', '<</SubType/XML/Type/ParaXML/Length %d/Filter/FlateDecode>>')
+    oPDF.stream(7, 0, "x\x9c}M»\nÂ0\x00Üó\x157ê\x926}`\x1cíKp\x10´\x19\x04q(5Å@\x1f±\x8díï[R\x07\x17åà\x86{>I$\x88\x93ÈQ\x95ò¼\x8fP\x0ep-\x86²Å\x97\x1eç\x1f=\x8f\x8f3Op²KÆÀ<\x88\nÌ:\x0b\x8b\x06\x8coiè3\x84<\xa0\x9c\x87\x10ÉuÅ(Ò»20\x0f5\xa0Rµ\\ßÄ\x81ü*n\x18\r¶KÑ£È\x8bñ\x7f<ä\x94¹¾\x8dû\x14;è¾k´Á¤jèN¿4\x8aÊÈ~þ\x96³¥Z\x03-ûªë\x9b¢-%µË© 'ò\x06}\x04D¾", '<</Length %d/Filter/FlateDecode>>')
+    oPDF.stream(11, 0, 'x\x9ce\x90ÁJÃ@\x10\x86_eè¥»\x8aÙÝ´Ñ(¥P[\x8bV\x84`\x02\x1e¬\x94m26\x0bénØLª\x1e|u5\x8dxòø\x7fóÏð1!H\x18Áè\x02"Pñ%Ä\x10\x9e+\x98LDöQ£Hô\x0e\x1b1w\xad%PâÞ\x14Í3\x8c»\x85Gx\x99N»Râ]ÑæèÙÒ½\x1b\x82¤Ô\x96Ü>Y,á\x0c~Qê^éM{\x84;\x9b\x07\\ÌZ*\x9dgU[µ\x9b\x8d\x94\x92\x8bÌP\x85ìë{w\x92}fkÏÅÜ£&ãìB\x13²ÅU(U$£P©x\x1c«\x98\x8b\x07Wü\x9bD*\x94§2\x1eJ9ä½W/¿t\x96DÚné\x18\x8eD\x89kÝ`\x8fo±: \x99\\\x8b\x1b\x9b»ÂØ\x9dx2vf\x1bó\x97û;)[é\x83Nsojâb\x952]×\x81®ÐÓ\x9a\r²\x12¡py»Çî;¥n`\x8bh¡öÆ\x12\x16Á`Í;\x97\x1f\x02\x03nx', '<</Type /ObjStm /N 4/First 21/Length %d/Filter /FlateDecode>>')
+    oPDF.stream(12, 0, 'x\x9ccb\x00\x81ÿÿ\x99\x18\x81\x94 ##\x98þÅÀÀ\x04\x16g`dú\x0f$=\x18 ò;\x18\x98Àüg\x0cÿ@ò\x8c\x0f\x80ê\x80âÿ\xad\x18\x98\x99þ\x01\x05¾2ü\x85ê\x03\x8b3\x1d\x87\x98ÃTÅÀ\x00\x00)\x87\x0fa', '<</Type /XRef/W[1 4 2]/Index[0 13]/Size 13/Filter /FlateDecode/DecodeParms<</Columns 7/Predictor 12>>/Length %d/Root 1 0 R /Info 3 0 R /ID[<8FB1854D2BB87418D70D3004F5E43166><8B9A4E03F2BA9A69834F8822DC29B017>]>>')
+    oPDF.xrefAndTrailer('1 0 R')
+    return oPDF.sample()

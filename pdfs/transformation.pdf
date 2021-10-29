@@ -1,0 +1,147 @@
+%PDF-1.4
+
+1 0 obj
+<<
+  /Type /Catalog
+  /Outlines 6 0 R
+  /Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+  /Type /Pages
+  /Kids [3 0 R]
+  /Count 1
+>>
+endobj
+
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [-50 -300 300 300]
+  /Contents 4 0 R
+  /Resources << /Font<</Font1 5 0 R>> >>  
+>>
+endobj
+
+4 0 obj
+<<
+  /Length 0
+>>stream
+%draw x and y axis.
+0 0 0 RG
+1 w
+0 -100 m
+0 100 l
+s
+-100 0 m
+100 0 l
+s
+
+%draw base n
+BT
+/Font1 100 Tf
+1 Tr
+(n) Tj
+ET
+
+%draw translation
+q
+
+1 0 0 1 50 100 cm
+1 w
+1 0 0 RG
+0 -100 m
+0 100 l
+s
+-100 0 m
+100 0 l
+s
+BT
+/Font1 100 Tf
+1 Tr
+(n) Tj
+ET
+
+0.866 0.5 -0.5 0.866 0 0 cm
+0 1 0 RG
+1 w
+0 -100 m
+0 100 l
+s
+-100 0 m
+100 0 l
+s
+BT
+/Font1 100 Tf
+1 Tr
+(n) Tj
+ET
+
+3 0 0 1 0 0 cm
+0 0 1 RG
+1 w
+0 -100 m
+0 100 l
+s
+-100 0 m
+100 0 l
+s
+BT
+/Font1 100 Tf
+1 Tr
+(n) Tj
+ET
+
+Q
+
+BT
+/Font1 12 Tf
+-10 -30 TD
+0 Tr
+(----Black figures denote orignal coordinate system.) '
+(----Red figures denote coordinate system after translation.) '
+(----Green figures denote coordinate system after rotation.) '
+(----Blue figures denote coordinate system after scaling.) '
+ET
+
+endstream
+endobj
+
+5 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica
+>>
+endobj
+
+6 0 obj
+<<
+  /Type /Outlines
+  /First 7 0 R
+  /Last 7 0 R
+  /Count 1
+>>
+endobj
+
+7 0 obj
+<<
+  /Title (examples of transformations of coordiate system)
+  /Parent 6 0 R
+  /Dest [3 0 R /Fit]
+>>
+endobj
+
+xref
+trailer
+<<
+  /Size 0
+  /Root 1 0 R
+>>
+startxref
+0
+
+%%EOF

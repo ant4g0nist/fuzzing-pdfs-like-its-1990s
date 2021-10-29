@@ -1,0 +1,12 @@
+def func_90725fb74bae4d8daa741d81599fd36d(cPDF):
+    oPDF = cPDF()
+    oPDF.header('1.7')
+    oPDF.comment('¡³Å×')
+    oPDF.indirectobject(1, 0, '<</Type/Catalog/Pages 2 0 R /AA<</DS 5 0 R >>>>')
+    oPDF.indirectobject(4, 0, '<</Type/Page/Parent 2 0 R /MediaBox[ 0 0 612 792]/CropBox[ 0 0 612 792]/Resources<</Font<</FXF1 6 0 R >>>>/ParaXML 7 0 R /Contents 8 0 R >>')
+    oPDF.stream(7, 0, 'x\x9c³±¯ÈÍQ(K-*ÎÌÏ³U2Ô3PRHÍKÎOÉÌK·U\n\rqÓµPR°·³\tH,J\x8cðõ±³qÌÉ\tJM.ñÌKËW\x001\x80z,LôL-\x8cM\x8c\x0ctLMMõÌ\x8dLM\x8dLuL\x0cMõ,ÍÌ\x8dÍÍuL-\x8dõÌ\x8c\x0cMÌ\x0c¬\x95ôíx¹lôa¦ñr\x01\x00d.!ú', '<</SubType/XML/Type/ParaXML/Length %d/Filter/FlateDecode>>')
+    oPDF.stream(8, 0, 'x\x9c}M»\x0e\x820\x14Ýû\x15gÔ¥P\xa0\x11Gy\x998\x98(\x1dL\x8c\x03\x81\x12\x9b\x80T@ø}kupÑÜäÜä<ï$\x12ÄIä¤JyÜF(\x07¸ö\x86ò\x86/>Î?|\x1eï\rÎp²SÆÀ<\x88\x1aÌ*o\x14-X\x18PÏçà<¤Ì5\x8eä¼ð)6Ð}×ê\x11³j\xa0;ýÐ(êQö\x18¯\x12µj$Ô\x80¡\x98dE\x97\x17±#¿ZW\x8c\x06ëÀ¶z\x14¹\tüµ\x9b\x1f\x86ÜÚ\x19EZ©Ñ\x0c\x9a¥×¢\r¦\x82\x1cÈ\x13Ë\x8bB', '<</Length %d/Filter/FlateDecode>>')
+    oPDF.stream(11, 0, 'x\x9ce\x8fAOÂ@\x10\x85ÿÊ\x84\x0b»\x1a\x99mK\x11\ri\x82 Q\x8cIc\x9bx\x10C\x96v¤\x9b\x94Ýf»\x8bzð¯«\x05âÉãûÞ\x9bÉ{!\x08\x88 º\x84\x18\x82ñ\x15\x8c \x8cc\x98L0ÿl\x08S¹¥\x16gÆk\x07\x01>¨²}\x81awð\x04¯IÒ\x85RkJ_\x90e\x0bó¡\x1c¤\x95ÔÎìÒù\x02.à\x842óæÞ¥%¸×Å\x80ãÔ»ÊXVûÚ¯×B\x08\x8e¹r5±ï\x9fíYþ\x95¯,Ç\x99%é\x94Ñsé\x88Í¯C\x11Ä"\x0e\x83`<\x8c¢\x88ã£)ÿ;q8:\x17ã¾\x10}~ì\x95±¥ÜË¬°ªq\x1c\x97\x19\x93M3\x905Y·b½¼"(MáwÔ\xadªd\x0b\x1b"\r\xadÜS9è\xadøéÃqþÂh\x87\x99ß¸\x838\x90\x00odKG|Gõ\x9e\x9c*$ÞêÂ\x94JoñYé©nÕ\x9fN\x92_\x89öm\x97', '<</Type /ObjStm /N 4/First 21/Length %d/Filter /FlateDecode>>')
+    oPDF.stream(12, 0, 'x\x9ccb\x00\x81ÿÿ\x99\x18\x81\x94 ##\x98þÅÀÀ\x04\x16g`dú\x0f$=\x18 ò;\x18\x98PÄ\x9f1ü\x05ñ\x19\x1f\x00Õ\x03ùÿõáú\x18@ê\x99\x8e@øL\x95\x0c\x0c\x00ÍT\r]', '<</Type /XRef/W[1 4 2]/Index[0 13]/Size 13/Filter /FlateDecode/DecodeParms<</Columns 7/Predictor 12>>/Length %d/Root 1 0 R /Info 3 0 R /ID[<AACC4AE6B6E9730AD70D3004F5E43166><1674CA912D1D1CA1834F8822DC29B017>]>>')
+    oPDF.xrefAndTrailer('1 0 R')
+    return oPDF.sample()

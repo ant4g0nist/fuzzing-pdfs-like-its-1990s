@@ -1,0 +1,92 @@
+%PDF-1.4
+
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/AcroForm 3 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [4 0 R 41 0 R]
+/Count 2
+>>
+endobj
+
+3 0 obj
+<<
+/Fields [6 0 R]
+>>
+endobj
+
+4 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 500 600]
+/Contents 5 0 R
+/Annots [9 0 R]
+>>
+endobj
+
+41 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 500 600]
+/Contents 5 0 R
+
+>>
+endobj
+
+5 0 obj
+<<
+/Length 0
+>>
+stream
+
+1 0 0 RG
+50 50 400 500 re S 
+
+endstream
+endobj
+
+6 0 obj
+<<
+/Parent 3 0 R
+/T (Button)
+/Kids [9 0 R]
+>>
+endobj
+
+9 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Parent 6 0 R
+/Rect [150 150 250 250]
+/Border [16 16 1]
+/A << /Type /Action
+      /S /GoTo
+      /D [41 0 R  /Fit]
+   >>
+>>
+endobj
+
+
+
+
+
+
+xref
+trailer
+<<
+/Size 0
+/Root 1 0 R
+>>
+startref
+0
+%%EOF

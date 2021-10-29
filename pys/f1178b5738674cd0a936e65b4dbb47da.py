@@ -1,0 +1,12 @@
+def func_f1178b5738674cd0a936e65b4dbb47da(cPDF):
+    oPDF = cPDF()
+    oPDF.header('1.7')
+    oPDF.comment('%Î¼á¿¦')
+    oPDF.indirectobject(1, 0, '<</Type/Catalog/Pages 2 0 R>>')
+    oPDF.indirectobject(2, 0, '<</Type/Pages/MediaBox[0 0 200 200]/Count 1/Kids[3 0 R]>>')
+    oPDF.indirectobject(3, 0, '<</Type/Page/Parent 2 0 R/Annots[6 0 R]/Resources<</Font<</F1 4 0 R>>>>/Contents 5 0 R>>')
+    oPDF.indirectobject(4, 0, '<</Type/Font/Subtype/Type1/BaseFont/Times-Roman>>')
+    oPDF.stream(5, 0, 'BT\n10 10 TD\n/F1 12 Tf\n(Renders even with a broken annotation) Tj\nET', '<</Length %d>>')
+    oPDF.indirectobject(6, 0, '<</Type/Annot/Rect[266 116 430 204]/Contents( This annotation is broken )>>')
+    oPDF.xrefAndTrailer('1 0 R')
+    return oPDF.sample()

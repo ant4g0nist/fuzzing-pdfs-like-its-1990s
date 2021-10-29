@@ -1,0 +1,259 @@
+%PDF-1.7
+1 0 obj
+<<
+	/Type /Catalog
+	/Pages 2 0 R
+	/OCProperties 
+		<< /OCGs [
+				10 0 R 20 0 R
+				30 0 R 40 0 R 50 0 R
+				60 0 R 70 0 R 80 0 R 
+				90 0 R 100 0 R 110 0 R 120 0 R
+				130 0 R 140 0 R 150 0 R
+			] 
+		   /D <<
+			/BaseState /OFF
+			/ON [10 0 R] /OFF [20 0 R] 
+			/Order 7 0 R 
+			/AS [	% Auto state array of usage application dictionaries
+			<< /Event /View /Category [/Zoom] /OCGs [90 0 R 100 0 R 110 0 R 120 0 R] >>  
+			<< /Event /Print /Category [/Print] /OCGs [110 0 R 120 0 R] >>
+			<< /Event /Export /Category [/Export] /OCGs [110 0 R 120 0 R] >> 
+	    		] 
+		      >> 
+		  /Configs <<  % failed 
+				/Name (ConfigTest) /Creator (yiping_shi) /Locked [10 0 R 30 0 R]
+			   >>
+	        >>
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R 31 0 R 32 0 R]
+/Count 3
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 4 0 R
+/MediaBox [0 0 600 600]
+/Contents 6 0 R
+>>
+endobj
+
+31 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 4 0 R
+/MediaBox [0 0 600 600]
+/Contents 6 0 R
+>>
+endobj
+
+32 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 4 0 R
+/MediaBox [0 0 600 600]
+/Contents 6 0 R
+>>
+endobj
+
+7 0 obj
+[
+	[(OCG Test)10 0 R 20 0 R] 
+	[(OCMD Test)30 0 R 40 0 R 50 0 R] % collections of optional content groups
+	60 0 R[70 0 R 80 0 R]		% actual nesting of groups
+	[(AS Test)90 0 R 100 0 R 110 0 R 120 0 R] % collections of optional content groups
+	[(Itent Test)130 0 R 140 0 R 150 0 R]  %two intents: View and Design
+
+]
+endobj
+
+4 0 obj
+<<
+	/Font <</F5 5 0 R>> 
+	/ProcSet [/PDF /Text] 
+	/Properties 
+	<< 
+		/OC1 10 0 R 
+		/OC2 20 0 R
+		/OC3 30 0 R
+		/OC4 40 0 R
+		/OC5 50 0 R
+		/L1 60 0 R
+		/L1A 70 0 R
+		/L1B 80 0 R
+		/OC9 90 0 R
+		/OC10 100 0 R
+		/OC11 110 0 R
+		/OC12 120 0 R
+		/OC13 130 0 R
+		/OC14 140 0 R
+		/OC15 150 0 R
+	>>
+>>
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F5
+/BaseFont /Helvetica
+>>
+endobj
+
+6 0 obj
+<</Length 59>>
+stream
+/F5 10 Tf 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+0 0 1 rg
+BT 
+	2 0 0 2 100 550 Tm 
+	(OCG Test :) Tj 
+	0 0 0 rg
+	/OC /OC1 BDC
+		2 0 0 2 100 510 Tm 
+		(Hello) Tj 
+	EMC
+	/OC /OC2 BDC
+		2 0 0 2 150 510 Tm 
+		(OC Test) Tj 
+	EMC
+	/OC /OC2 BDC %More than one section of content can refer to the same group
+		2 0 0 2 100 480 Tm 
+		(the same OC with "OC Test") Tj 
+	EMC
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	0 0 1 rg
+	2 0 0 2 100 440 Tm 
+	(OCMD Test :) Tj 
+	0 0 0 rg
+	/OC /OC3 BDC
+		2 0 0 2 100 410 Tm 
+		(Group_m1) Tj 
+	EMC
+	/OC /OC4 BDC
+		2 0 0 2 240 410 Tm 
+		(Group_m2) Tj 
+	EMC
+	/OC /OC5 BDC
+		2 0 0 2 360 410 Tm 
+		(Group:m1+m2) Tj  
+	EMC
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	0 0 1 rg
+	2 0 0 2 100 370 Tm 
+	(Layer 1 :) Tj 
+	0 0 0 rg
+	/OC /L1 BDC % Layer 1  
+		/OC /L1A BDC % Sublayer A of layer 1 
+			2 0 0 2 100 340 Tm 
+			(Sublayer A) Tj 
+		EMC 
+		/OC /L1B BDC % Sublayer B of layer 1 
+			2 0 0 2 240 340 Tm 
+			(Sublayer B) Tj 
+		EMC 
+	EMC
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	0 0 1 rg
+	2 0 0 2 100 300 Tm 
+	(AS Test :) Tj 
+	0 0 0 rg
+	/OC /OC9 BDC
+		2 0 0 2 100 260 Tm 
+		(90 0 obj: zoom:X<100%) Tj 
+	EMC
+	/OC /OC10 BDC
+		2 0 0 2 100 230 Tm 
+		(100 0 obj: zoom:100%<=X<200%) Tj 
+	EMC
+	/OC /OC11 BDC
+		2 0 0 2 100 200 Tm 
+		(110 0 obj: Print:OFF,Export:OFF) Tj  
+	EMC
+	/OC /OC12 BDC
+		2 0 0 2 100 170 Tm 
+		(120 0 obj: Print:ON,Export:ON) Tj  
+	EMC
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	0 0 1 rg
+	2 0 0 2 100 130 Tm 
+	(Itent Test :) Tj 
+	0 0 0 rg
+	/OC /OC13 BDC
+		2 0 0 2 100 100 Tm 
+		(View) Tj 
+	EMC
+	/OC /OC14 BDC
+		2 0 0 2 200 100 Tm 
+		(Design) Tj 
+	EMC
+	/OC /OC15 BDC
+		2 0 0 2 300 100 Tm 
+		(View and Design) Tj 
+	EMC
+
+ET
+endstream
+endobj
+
+10 0 obj << /Type /OCG /Name (View:Hello) >> endobj
+20 0 obj << /Type /OCG /Name (View:OC Test) >> endobj
+
+%%%%%%%%%% OCMD Test %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+30 0 obj << /Type /OCG /Name (View:Group_m1) >> endobj
+40 0 obj << /Type /OCG /Name (View:Group_m2) >> endobj
+50 0 obj
+<< /Type /OCMD 
+	/OCGs [30 0 R 40 0 R]      	%(1)
+	/P /AllOn			%(2)
+	%/VE [/And 30 0 R 40 0 R ]	%(3)equivalent to(1)and(2)
+>>
+endobj
+
+%%%%%%%%%% Nesting of groups by Oreder Set %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+60 0 obj <</Type /OCG /Name (Layer 1)>> endobj 
+70 0 obj <</Type /OCG /Name (Sublayer A)>> endobj 
+80 0 obj <</Type /OCG /Name (Sublayer B)>> endobj 
+
+%%%% Usage Test %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+91 0 obj << /Zoom << /max 1.0 >> 
+	    /CreatorInfo << /Subtype /Artwork /Creator (Optional Content Test) >> 
+         >> endobj
+101 0 obj << /Zoom << /min 1.0 /max 2.0 >> >>  endobj
+111 0 obj << /Print << /PrintState /OFF >> /Export <<  /ExportState /OFF >> >>  endobj
+121 0 obj << /Print << /PrintState /ON >> /Export << /ExportState /ON >> >> endobj
+90 0 obj << /Type /OCG /Name (zoom:X<100%) /Usage 91 0 R >> endobj
+100 0 obj << /Type /OCG /Name (zoom:100%<=X<200%) /Usage 101 0 R>> endobj
+110 0 obj << /Type /OCG /Name (Print:OFF,Export:OFF) /Usage 111 0 R >> endobj
+120 0 obj << /Type /OCG /Name (Print:ON,Export:ON) /Usage 121 0 R >> endobj
+
+%%%%%% Itent Test %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+131 0 obj [/View] endobj
+141 0 obj [/Design] endobj
+151 0 obj [/View /Design] endobj
+130 0 obj << /Type /OCG /Intent 131 0 R /Usage 9 0 R /Name (View) >> endobj
+140 0 obj << /Type /OCG /Intent 141 0 R /Usage 9 0 R /Name (Design) >> endobj
+150 0 obj << /Type /OCG /Intent 151 0 R /Usage 9 0 R /Name (View and Design) >> endobj
+
+xref
+0 
+trailer
+<<
+/Size 0
+/Root 1 0 R
+>>
+startxref
+0
+%%EOF

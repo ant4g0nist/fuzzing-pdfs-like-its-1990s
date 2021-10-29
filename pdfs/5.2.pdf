@@ -1,0 +1,281 @@
+%PDF-1.4
+
+5 0 obj
+<<
+    /Type /Font
+    /Subtype /Type1
+    /BaseFont /Helvetica
+>>
+endobj
+
+16 0 obj
+<<
+	/CA 0.3
+	/ca 0.3
+	/TK true
+>>
+endobj
+
+17 0 obj
+<<
+	/CA 0.3
+	/ca 0.3
+	/TK false
+>>
+endobj
+
+26 0 obj
+<<
+/BaseFont /#CB#CE#CC#E5 
+/DescendantFonts [28 0 R] 
+/Encoding /UniGB-UCS2-V 
+/Subtype /Type0 
+/Type /Font 
+>>
+endobj
+
+27 0 obj
+<<
+/Ascent 859 
+/CapHeight 500 
+/Descent -140 
+/Flags 32 
+/FontBBox [0 -140 996 855] 
+/FontName /#CB#CE#CC#E5 
+/ItalicAngle 0 
+/StemV 100 
+/Type /FontDescriptor 
+>>
+endobj
+
+28 0 obj
+<<
+/BaseFont /#CB#CE#CC#E5 
+/CIDSystemInfo <</Registry (Adobe) /Ordering (GB1) /Supplement 4>> 
+/FontDescriptor 27 0 R 
+/Subtype /CIDFontType2 
+/Type /Font 
+>>
+endobj
+
+4 0 obj
+<</Length 0>>
+stream
+
+q
+    1 1 0 RG
+    0 50 m 1000 50 l
+    0 100 m 1000 100 l
+    0 150 m 1000 150 l
+    0 200 m 1000 200 l
+    0 250 m 1000 250 l
+    0 300 m 1000 300 l
+    0 350 m 1000 350 l
+    0 400 m 1000 400 l
+    0 450 m 1000 450 l
+    0 500 m 1000 500 l
+    0 550 m 1000 550 l
+    0 600 m 1000 600 l
+    0 650 m 1000 650 l
+    0 700 m 1000 700 l
+    0 750 m 1000 750 l
+    0 800 m 1000 800 l
+    0 850 m 1000 850 l
+    0 900 m 1000 900 l
+    0 950 m 1000 950 l
+    S
+Q
+
+/F5 40 Tf
+
+% Char spacing
+q    
+    BT  
+        100 950 Td 
+        (Char spacing 0) Tj 
+    ET
+Q
+q
+    BT  
+        5 Tc 
+        0 0 1 rg 
+        100 900 Td 
+        (Char Spacing 5) Tj 
+    ET
+Q
+
+% Word spacing
+q
+    BT 
+        100 850 Td 
+        (Word Spacing 0) Tj 
+    ET
+    BT 
+        20 Tw 
+        0 0 1 rg 
+        100 800 Td 
+        (Word Spacing 20) Tj 
+    ET
+Q
+
+% Horizontal Scaling
+q
+    BT 
+        100 750 Td 
+        (Horizontal Scaling 100) Tj 
+        [( T)-200(J)-200(Adjust)] TJ 
+    ET
+    BT 
+        50 Tz 
+        0 0 1 rg 
+        100 700 Td 
+        (Horizontal Scaling 50) Tj 
+        [( T)-200(J)-200(Adjust)] TJ 
+    ET
+Q
+
+% Leading
+q
+    BT -10 TL 100 650 Td (Leading-10) ' ET
+    BT  10 TL 300 650 Td (Leading10) ' ET
+    BT  0  TL 500 650 Td (Default) ' ET
+Q
+
+% Rending Mode
+q
+% Blue Red Number
+    0 0 1 RG 1 0 0 rg
+    2 w
+    /F5 80 Tf
+    BT 
+    100 550 Td 
+    0 Tr (0) Tj    1 Tr (1) Tj    2 Tr (2) Tj    3 Tr (3) Tj
+    4 Tr (4) Tj    5 Tr (5) Tj    6 Tr (6) Tj    7 Tr (7) Tj    
+%    2 Tr (2) Tj
+    ET
+% Green Rect
+%    0 1 0 RG 0 1 0 rg 0 550 700 40 re B
+% Black Number
+%    0 0 0 RG 0 0 0 rg
+    BT    
+    100 550 Td 
+%    1 Tr (1) Tj    2 Tr (2) Tj    3 Tr (3) Tj    
+%    4 Tr (4) Tj    5 Tr (5) Tj    6 Tr (6) Tj    7 Tr (7) Tj
+    ET
+% Purple Rect
+%    1 0 1 RG 1 0 1 rg 0 550 700 20 re B
+Q
+
+% Rise
+q
+    BT 100 500 Td 
+        10  Ts (Superscripts) Tj
+        -10 Ts (Subscripts) Tj
+        0   Ts (Normal) Tj
+    ET
+Q
+q
+BT  /F26 30 Tf 100 500 Td 
+	[(N-VýNº)] TJ 
+	-30 Ts [(N-VýNº)] TJ 
+	-60 Ts [(\000T)(\000e)(\000s)(\000t)] TJ	
+ET
+Q
+
+% Knockout
+q
+	/KO1 gs
+	BT
+		/F5 60 Tf
+		200 400 Td
+		-20 Tc
+		(VVVVVV) Tj
+	ET
+Q
+q
+	/KO1 gs
+	BT
+		/F5 60 Tf
+		300 400 Td
+		-20 Tc
+		(CCCCCC) Tj
+	ET
+Q
+q
+	/KO2 gs
+	BT
+		/F5 60 Tf
+		200 300 Td
+		-20 Tc
+		(VVVVVV) Tj
+	ET
+Q
+
+endstream
+endobj
+
+
+3 0 obj
+<<
+    /Type /Page 
+    /Parent 2 0 R
+    /MediaBox [0 0 700 1000]    
+    /Contents 4 0 R
+    /Resources <<
+        /Font << /F5 5 0 R /F26 26 0 R>>
+		/ExtGState << /KO1 16 0 R /KO2 17 0 R >>
+    >>
+>>
+endobj
+
+13 0 obj
+<<
+    /Type /Page 
+    /Parent 2 0 R
+    /MediaBox [0 0 700 1000]    
+    /Contents 14 0 R
+    /Resources <<
+        /Font << /F5 5 0 R >>
+    >>
+>>
+endobj
+
+14 0 obj
+<</Length 0>>
+stream
+
+% Set perameter outside of text obj    
+q
+    /F5 50 Tf
+    1 0 0 RG
+    2 Tr
+    BT 100 900 Td (Outside parameter 1) Tj ET
+    BT 100 850 Td (Outside parameter 2) Tj ET
+Q
+
+% Tf must be set
+q
+    /F5 20 Tf
+    BT 100 800 Td (Inside Parameter 1) Tj ET
+    BT 200 Tz 0 1 0 RG 2 Tr
+       100 750 Td (Inside Parameter 2) Tj ET
+    BT 100 700 Td (Inside Parameter 3) Tj ET
+Q
+
+endstream
+endobj
+
+2 0 obj
+<</Type /Pages /Kids [3 0 R 13 0 R] /Count 2>>
+endobj
+
+1 0 obj
+<</Type /Catalog /Pages 2 0 R >>
+endobj
+
+xref
+trailer
+<</Size 0 /Root 1 0 R>>
+startxref
+0
+%%EOF

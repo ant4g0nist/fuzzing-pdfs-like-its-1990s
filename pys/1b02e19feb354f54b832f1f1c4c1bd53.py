@@ -1,0 +1,11 @@
+def func_1b02e19feb354f54b832f1f1c4c1bd53(cPDF):
+    oPDF = cPDF()
+    oPDF.header('1.7')
+    oPDF.comment('âãÏÓ')
+    oPDF.indirectobject(1, 0, '<<\n/Pages 2 0 R\n/Type /Catalog\n>>')
+    oPDF.indirectobject(2, 0, '<<\n/Kids [3 0 R]\n/Count 1\n/Type /Pages\n>>')
+    oPDF.indirectobject(3, 0, '<<\n/Parent 2 0 R\n/MediaBox [0 0 200 50]\n/Resources \n<<\n/Font \n<<\n/F1 4 0 R\n>>\n>>\n/Contents 5 0 R\n/Type /Page\n>>')
+    oPDF.indirectobject(4, 0, '<<\n/BaseFont /Times-Roman\n/Subtype /Type1\n/ToUnicode /Identity-H\n/Encoding /WinAnsiEncoding\n/Type /Font\n>>')
+    oPDF.stream(5, 0, 'BT\n10 20 TD\n/F1 20 Tf\n(ABCdef) Tj\nET', '<<\n/Length %d\n>>')
+    oPDF.xrefAndTrailer('1 0 R')
+    return oPDF.sample()

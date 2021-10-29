@@ -1,0 +1,10 @@
+def func_18d751e846774595836cad04a2b224d9(cPDF):
+    oPDF = cPDF()
+    oPDF.header('1.7')
+    oPDF.indirectobject(45, 0, '<<\n/Type /Catalog\n/Pages 46 0 R\n>>')
+    oPDF.indirectobject(46, 0, '<<\n/Type /Pages\n/MediaBox [ 0 0 200 50 ]\n/Count 1\n/Kids [ 47 0 R ]\n>>')
+    oPDF.indirectobject(47, 0, '<<\n/Type /Page\n/Parent 46 0 R\n/Resources <<\n/Font <<\n/F1 48 0 R\n>>\n\n>>\n\n/Contents 49 0 R\n>>')
+    oPDF.indirectobject(48, 0, '<<\n/BaseFont /SNCSTG+CMBX12\n/FirstChar 11\n/FontDescriptor 38 0 R\n/LastChar 122\n/Subtype /Type1\n/Type /Font\n/Widths 39 0 R\n>>')
+    oPDF.stream(49, 0, 'BT\n7 Tr\n10 20 TD\n/F1 20 Tf\n(waves) Tj\nET\n0 0 1 rg\n0 0 200 50 re\nf', '<<\n/Length %d\n>>')
+    oPDF.indirectobject(38, 0, '<<\n/Ascent 694\n/CapHeight 686\n/CharSet (/A/B/C/D/E/F/G/H/I/L/M/O/P/R/S/T/U/V/W/Z/a/b/c/comma/d/e/eight/f/ff/ffi/fi/five/fl/four/g/h/hyphen/i/j/k/l/m/n/nine/o/one/p/parenleft/parenright/period/q/question/quotedblleft/quotedblright/r/s/seven/six/slash/t/three/two/u/v/w/x/y/z/zero)\n/Descent -194\n/Flags 4\n/FontBBox [ -53 -251 1139 750 ]\n/FontFile 12 0 R\n/FontName /SNCSTG+CMBX12\n/ItalicAngle 0\n/StemV 109\n/Type /FontDescriptor\n/XHeight 444\n>>')
+    oPDF.indirectobject(39, 0, '[ 656.3 625 625 937.5 937.5 312.5 343.7 562.5 562.5 562.5 562.5 562.5 849.5 500 574.1 812.5 875 562.5 1018.5 1143.5 875 312.5 342.6 581 937.5 562.5 937.5 875 312.5 437.5 437.5 562.5 875 312.5 375 312.5 562.5 562.5 562.5 562.5 562.5 562.5 562.5 562.5 562.5 562.5 562.5 312.5 312.5 342.6 875 531.3 531.3 875 849.5 799.8 812.5 862.3 738.4 707.2 884.3 879.6 419 581 880.8 675.9 1067.1 879.6 844.9 768.5 844.9 839.1 625 782.4 864.6 849.5 1162 849.5 849.5 687.5 312.5 581 312.5 562.5 312.5 312.5 546.9 625 500 625 513.3 343.7 562.5 625 312.5 343.7 593.8 312.5 937.5 625 562.5 625 593.8 459.5 443.8 437.5 625 593.8 812.5 593.8 593.8 500 ]')

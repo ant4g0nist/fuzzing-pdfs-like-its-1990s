@@ -1,0 +1,115 @@
+%PDF-1.4
+
+1 0 obj
+<<
+	/Type /Catalog
+	/Pages 2 0 R
+>>
+endobj
+
+
+2 0 obj
+<<
+	/Type /Pages
+	/Count 1
+	/Kids [3 0 R]
+>>
+endobj
+
+
+3 0 obj
+<<
+	/Type /Page
+	/Parent 2 0 R
+	/MediaBox [0 0 450 600]
+	/Contents [4 0 R]
+	/Resources
+	<<
+		/XObject << /Form0 5 0 R >>
+		/Font<</F1 7 0 R>>
+		/ExtGState<</GS1 9 0 R>>
+	>>
+
+>>
+endobj
+
+4 0 obj
+<<
+	/Length 0
+>>
+stream
+
+
+
+1 0 0 rg
+BT /F1 20 Tf 175 250 TD (Hello World)Tj
+ET
+
+q
+/GS1 gs
+1 0 0 1 175 250 cm
+/Form0 Do
+Q
+endstream
+endobj
+
+5 0 obj
+<<
+	/Type	/XObject
+	/Subtype/Form
+	/FormType 1
+	/BBox [0 0 100 100]
+	/Group
+	<<
+		/Type /Group
+		/S /Transparency
+	>>
+	/Resources
+	<<
+		/ExtGState << /GS0 8 0 R >>
+	>>
+	/Length 0
+>>
+stream
+/GS0 gs
+0 1 1 rg 
+0  0  m 0 1000  l 1000  1000  l 1000  0  l f 
+
+
+%0 0 m 0  1000 l 1000  1000  l 1000  0 l f
+endstream
+endobj
+
+6 0 obj
+<<
+	/CA 0.5
+	/ca 0.5
+>>
+endobj
+
+8 0 obj <</OPM 1/BM/Normal/CA 1.0/OP false/SMask/None/ca 1.0/AIS false/op false/Type/ExtGState/SA true>>endobj
+
+9 0 obj<</OPM 1/BM/Screen/CA 0.75/OP false/SMask 58 0 R/ca 0.75/AIS true/op false/Type/ExtGState/SA true>>endobj
+
+7 0 obj
+<<
+	/Type /Font
+	/Subtype /Type1
+	/BaseFont /Helvetica
+>>
+endobj
+
+xref
+
+trailer
+<<
+	/Size 0
+	/Root 1 0 R
+>>
+
+
+startxref
+
+0
+
+%%EOF

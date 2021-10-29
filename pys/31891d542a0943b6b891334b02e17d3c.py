@@ -1,0 +1,12 @@
+def func_31891d542a0943b6b891334b02e17d3c(cPDF):
+    oPDF = cPDF()
+    oPDF.header('1.4')
+    oPDF.indirectobject(1, 0, '<<\t\r\n\t/Type /Catalog\r\n \t/Pages 2 0 R\r\n>>')
+    oPDF.indirectobject(2, 0, '<<\r\n\t/Type /Pages \r\n\t/Kids [3 0 R] \r\n\t/Count 1\r\n>>')
+    oPDF.indirectobject(3, 0, '<<\r\n\t/Type /Page \r\n\t/Parent 2 0 R\r\n\t/MediaBox [0 0 255 255]\t\r\n\t/Contents 4 0 R\r\n\t/Resources <<\r\n\t\t/Font << /F5 5 0 R >>\r\n\t\t/Pattern<</PTSh5 6 0 R >>\r\n\t\t/Shading<</SH5 7 0 R>>\r\n\t>>\r\n>>')
+    oPDF.stream(4, 0, '/SH5 sh\r\n\r\n%/Pattern cs\r\n%/PTSh4 sc\r\n%0 0 700 600 re\r\n%f\r\n\r\n%0 0 50 50 re\r\n%f', '<<\r\n\t/Length %d\r\n>>')
+    oPDF.indirectobject(5, 0, '<<\r\n\t/Type /Font\r\n\t/Subtype /Type1\r\n\t/BaseFont /Helvetica\r\n>>')
+    oPDF.indirectobject(6, 0, '<<\r\n\t/Type /Pattern\r\n\t/PatternType 2\r\n\t/Shading 7 0 R\r\n>>')
+    oPDF.stream(7, 0, 'FF FF 00 00 FF\r\n00 FF 00 FF 00\r\nFF 00 FF 00 FF\r\n00 00 00 FF FF>', '<<\r\n\t/ShadingType 5\r\n\t/ColorSpace /DeviceRGB\r\n%\t/Background [0 0 1]\r\n\t/BitsPerCoordinate 8\r\n\t/BitsPerComponent 8\r\n\t/VerticesPerRow 2\r\n\t/Decode [0 255 0 255 0 1 0 1 0 1]\r\n  \t/Length %d\r\n\t/Filter /ASCIIHexDecode\r\n>>')
+    oPDF.xrefAndTrailer('1 0 R')
+    return oPDF.sample()

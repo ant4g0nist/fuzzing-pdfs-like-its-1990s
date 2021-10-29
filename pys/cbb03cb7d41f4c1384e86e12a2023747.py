@@ -1,0 +1,11 @@
+def func_cbb03cb7d41f4c1384e86e12a2023747(cPDF):
+    oPDF = cPDF()
+    oPDF.header('1.7')
+    oPDF.comment('¡³Å×')
+    oPDF.indirectobject(1, 0, '<</Type/Catalog/Pages 2 0 R /AcroForm<<>>>>')
+    oPDF.indirectobject(5, 0, '<</Type/Page/Parent 2 0 R /MediaBox[ 0 0 531 666]/CropBox[ 0 0 531 666]/Resources<</Font<<>>/Shading<</FXS5 27 0 R >>/ExtGState<<>>>>/Contents 76 0 R /Rotate 0>>')
+    oPDF.stream(76, 0, 'x\x9c+T0²0×32U03µÐ3U04³PÐ540R(Jå\n×RÈã2TÈT(T0T0\x00BC\x05]\x133\xa0"cc\x85ä\\\x05}·\x88`S\x85â\x0c\x85@.\x00ô¤\x0e¯', '<</Length %d/Filter/FlateDecode>>')
+    oPDF.stream(77, 0, 'x\x9cm\x90oKÃ0\x10Æ¿Ê½Û\x86Øäò§]e\x14Öu\x13\x11el¾+}\x11Ú¸\x15\\2ÒTç·7Ý\x14\x19J w¹{îá\x97c@\x81\x03\x97 \x00\x13\x01,\x01\x9cr`Sà<\x84\x14\x04M`6#/\x9fGMÖj§;²°½ñ\x80ä±mº0Ea\x03Y\x16$kg\x9b¾Ön¼²§ÖÃz¯\x8c·\x87u±\x82[¸\x94¶öÕ\x7f(§áÁÔÑ\x84Ì{¿·n<o\x0e\xadi;ï\x94·nB\x16N+ßZS(¯ÇÅ\x1d£(\x10Y\x8c\x92&BLÈ\x93mþéH~C§#JG\x93,+A\x9e¡ªÀ´Ý«¦5»\x81\x1ex ·®éJ\x10i\x121\t1M\x83P06<¤L¢8D\x1cZU\x90¾Y·=ªZ\x93B¿·µÞÜç¤°\x07Õ\x9a2\x0caE\x96\'¯MS\x82w½>_\x15Yõ¦\x1eÐ\x87õ\r\x04$Ïíi\x90S\x90\x1c!\x8eãê¼©\x1fÝ7Ö\x95m\x1e¶\x1b\x18\x7fÍ\x02/K/\x1f"KSÛF_\x94\x7f\x9dØµÓ\x82\x96\x80Ã\t)\x86Z4ELâ°\x9bH"OX\x1c\x12ÎR\x81¬"Ï\x80Yö\x05\t \x93r', '<</Type /ObjStm /N 6/First 36/Length %d/Filter /FlateDecode>>')
+    oPDF.stream(78, 0, "x\x9ccb\x00\x81ÿÿ\x99\x18\x81\x94 ##\x98¶a``\x02\x8b30Âéÿ\x0c Á\x7f`z#\\~ðÒ \x86/\x033\x86?þ\x01ÉÍ\x0c¿\x07Ü}#\x85\x06¦'Ff(\x7f\x12\x84fÚÇÀ\x00\x00tI\nö", '<</Type /XRef/W[1 4 2]/Index[0 79]/Size 79/Filter /FlateDecode/DecodeParms<</Columns 7/Predictor 12>>/Length %d\r\n/Root 1 0 R\r\n/Info 3 0 R\r\n/ID[<CE5BEF8E9C306FFEE9F0000EB1117590><CE5BEF8E9C306FFEE9F0000EB1117590>]>>')
+    oPDF.xrefAndTrailer('1 0 R')
+    return oPDF.sample()
